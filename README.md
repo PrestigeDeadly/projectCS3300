@@ -1,6 +1,1 @@
-#team bjm
-Ryan
-Carson
-Brody
-Emmanuel
-Brett
+Sprint 1 for Project for CS 3300
